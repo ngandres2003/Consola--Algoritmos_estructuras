@@ -1,0 +1,291 @@
+[
+   {
+    "almacenamiento_id":1,
+    "nombre":"C:",
+    "capacidad_total":2000,
+    "capacidad_disponible":1453,
+    "tipo":"ssd",
+    "lista_directorio":[{
+                        "directorio_id":1,
+                        "nombre":"descargas",
+                        "fecha_creacion":"13-04-2021",
+                        "lista_ficheros":[{
+                                          "fichero_id":1,
+                                          "nombre":"imagen.png",
+                                           "tamano":10,
+                                          "extension":".png",
+                                          "contenido":"imagen de prueba",
+                                          "fecha_creacion":"2/01/1998",
+                                          "fecha_modificacion":"12/21/1999"
+                                             
+                                         },
+                                         {
+                                            "fichero_id":2,
+                                            "nombre":"imagen2.png",
+                                            "tamano":30,
+                                            "extension":".png",
+                                            "contenido":"imagen de prueba 2",
+                                            "fecha_creacion":"10/19/2021",
+                                            "fecha_modificacion":"01/23/2023"
+                                             
+
+                                         },
+                                         {
+                                            "fichero_id":3,
+                                            "nombre":"imagen3.png",
+                                            "tamano":60,
+                                            "extension":".png",
+                                            "contenido":"imagen de prueba 3",
+                                            "fecha_creacion":"03/11/2022",
+                                            "fecha_modificacion":"04/18/2005"
+                                             
+
+                                         },
+                                         {
+                                            "fichero_id":4,
+                                            "nombre":"pelicula.mp4",
+                                            "tamano":1000,
+                                            "extension":".mp4",
+                                            "contenido":"Pelicula",
+                                            "fecha_creacion":"1/30/2022",
+                                            "fecha_modificacion":"12/18/2024"
+                                             
+
+                                         },
+                                         {
+                                            "fichero_id":5,
+                                            "nombre":"tarea.pdf",
+                                            "tamano":12,
+                                            "extension":".pdf",
+                                            "contenido":"tarea de programacion",
+                                            "fecha_creacion":"11/10/2021",
+                                            "fecha_modificacion":"7/21/2022"
+                                             
+
+                                         },
+                                         {
+                                            "fichero_id":6,
+                                            "nombre":"proyecto.pdf",
+                                            "tamano":20,
+                                            "extension":".pdf",
+                                            "contenido":"proyecto final",
+                                            "fecha_creacion":"05/07/2004",
+                                            "fecha_modificacion":"2/13/2011"
+                                             
+
+                                         },
+                                         {
+                                            "fichero_id":71,
+                                            "nombre":"carnet.png",
+                                            "tamano":75,
+                                            "extension":".png",
+                                            "contenido":"imagen carnet",
+                                            "fecha_creacion":"08/14/2007",
+                                            "fecha_modificacion":"02/19/2009"
+                                             
+
+                                         }
+
+                                        ]
+                        },
+                        {
+                            "directorio_id":2,
+                            "nombre":"escritorio",
+                            "fecha_creacion":"23-01-2023",
+                            "lista_ficheros":[{
+                                              "fichero_id":42,
+                                              "nombre":"imagen.jpg",
+                                              "tamano":30,
+                                              "extension":".jpg",
+                                              "contenido":"logo empresa",
+                                              "fecha_creacion":"12/04/2020",
+                                              "fecha_modificacion":"03/01/2022"
+                                               
+                                             },
+                                             {
+                                                "fichero_id":4,
+                                                "nombre":"carta.txt",
+                                                "tamano":5,
+                                                "extension":".txt",
+                                                "contenido":"carta de navidad",  
+                                                "fecha_creacion":"5/05/2019",
+                                                "fecha_modificacion":"02/12/2021"
+                                                
+    
+                                             },
+                                             {
+                                                "fichero_id":6,
+                                                "nombre":"archivo.pdf",
+                                                "tamano":15,
+                                                "extension":".pdf",
+                                                "contenido":"carta",  
+                                                "fecha_creacion":"12/15/2019",
+                                                "fecha_modificacion":"11/11/2023"
+                                                
+    
+                                             },
+                                             {
+                                                "fichero_id":4,
+                                                "nombre":"serie.mp4",
+                                                "tamano":5,
+                                                "extension":".mp4",
+                                                "contenido":"capitulo de serie",  
+                                                "fecha_creacion":"07/25/2013",
+                                                "fecha_modificacion":"09/14/2021"
+                                                
+    
+                                             }
+                                          
+                                          
+                                          ]
+                            }, {
+                              "directorio_id": 3,
+                              "nombre": "videos",
+                              "fecha_creacion": "20-05-2021",
+                              "lista_ficheros": [
+                                  {
+                                      "fichero_id": 9,
+                                      "nombre": "viaje.mp4",
+                                      "tamano": 500,
+                                      "extension": ".mp4",
+                                      "contenido": "video de vacaciones",
+                                      "fecha_creacion": "5/20/2021",
+                                      "fecha_modificacion": "03/15/2022"
+                                  },{
+                                    "fichero_id": 11,
+                                    "nombre": "tutorial.mp4",
+                                    "tamano": 300,
+                                    "extension": ".mp4",
+                                    "contenido": "tutorial de programación",
+                                    "fecha_creacion": "02/10/2015",
+                                    "fecha_modificacion": "05/12/2017"
+                                },
+                                {
+                                    "fichero_id": 12,
+                                    "nombre": "concierto.mp4",
+                                    "tamano": 800,
+                                    "extension": ".mp4",
+                                    "contenido": "concierto en vivo",
+                                    "fecha_creacion": "07/25/2023",
+                                    "fecha_modificacion": "11/30/2023"
+                                },
+                                {
+                                    "fichero_id": 13,
+                                    "nombre": "deporte.mp4",
+                                    "tamano": 600,
+                                    "extension": ".mp4",
+                                    "contenido": "evento deportivo",
+                                    "fecha_creacion": "11/05/2019",
+                                    "fecha_modificacion": "02/28/2020"
+                                },
+                                {
+                                    "fichero_id": 14,
+                                    "nombre": "entrevista.mp4",
+                                    "tamano": 400,
+                                    "extension": ".mp4",
+                                    "contenido": "entrevista exclusiva",
+                                    "fecha_creacion": "04/15/2024",
+                                    "fecha_modificacion": "08/20/2024"
+                                }
+                              ]
+                          }
+
+                        ]
+            
+    },
+    {
+      "almacenamiento_id": 2,
+      "nombre": "D:",
+      "capacidad_total": 1000,
+      "capacidad_disponible": 800,
+      "tipo": "hdd",
+      "lista_directorio": [
+        {
+          "directorio_id": 4,
+          "nombre": "trabajo",
+          "fecha_creacion": "10-03-2022",
+          "lista_ficheros": [
+            {
+              "fichero_id": 16,
+              "nombre": "proyecto.docx",
+              "tamano": 25,
+              "extension": ".docx",
+              "contenido": "documento de proyecto",
+              "fecha_creacion": "03/10/2022",
+              "fecha_modificacion": "05/15/2022"
+            },
+            {
+              "fichero_id": 17,
+              "nombre": "presupuesto.xlsx",
+              "tamano": 18,
+              "extension": ".xlsx",
+              "contenido": "hoja de cálculo de presupuesto",
+              "fecha_creacion": "08/20/2021",
+              "fecha_modificacion": "12/01/2021"
+            },
+            {
+              "fichero_id": 18,
+              "nombre": "codigo.py",
+              "tamano": 12,
+              "extension": ".py",
+              "contenido": "código fuente",
+              "fecha_creacion": "01/05/2023",
+              "fecha_modificacion": "04/30/2023"
+            },
+            {
+              "fichero_id": 19,
+              "nombre": "presentacion.pptx",
+              "tamano": 30,
+              "extension": ".pptx",
+              "contenido": "presentación de trabajo",
+              "fecha_creacion": "06/12/2022",
+              "fecha_modificacion": "09/25/2022"
+            }
+          ]
+        },
+        {
+          "directorio_id": 15,
+          "nombre": "personal",
+          "fecha_creacion": "18-07-2023",
+          "lista_ficheros": [
+            {
+              "fichero_id": 202,
+              "nombre": "viaje.jpg",
+              "tamano": 40,
+              "extension": ".jpg",
+              "contenido": "foto de viaje",
+              "fecha_creacion": "07/18/2023",
+              "fecha_modificacion": "10/22/2023"
+            },
+            {
+              "fichero_id": 21,
+              "nombre": "receta.txt",
+              "tamano": 5,
+              "extension": ".txt",
+              "contenido": "receta de cocina",
+              "fecha_creacion": "02/28/2022",
+              "fecha_modificacion": "06/15/2022"
+            },
+            {
+              "fichero_id": 22,
+              "nombre": "diario.pdf",
+              "tamano": 15,
+              "extension": ".pdf",
+              "contenido": "diario personal",
+              "fecha_creacion": "11/10/2021",
+              "fecha_modificacion": "02/01/2022"
+            },
+            {
+              "fichero_id": 23,
+              "nombre": "musica.mp3",
+              "tamano": 50,
+              "extension": ".mp3",
+              "contenido": "canción favorita",
+              "fecha_creacion": "04/05/2023",
+              "fecha_modificacion": "08/18/2023"
+            }
+          ]
+        }
+      ]
+    }
+]
